@@ -1,6 +1,6 @@
 # unreal_dev_ground_rule
 - This is code-level rule of unreal project for new ue team. 
-
+- 2022/06/26 13:51 최초 작성) [원문 - DreamBox 그라운드 룰](https://oriburger.notion.site/DreamBox-6f888b4121644753998eaf3befdefc61)
 
 
 ## 기본
